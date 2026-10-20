@@ -7,6 +7,6 @@
   <div class="menu-H">
     <a href="">Inicio</a>
     <a href="">Catalogo</a>
-    <a href="views/dashboard.blade.php">Dashboard</a>
+    <a href="views/dashboard.blade.php" target="_blank">Dashboard</a>
   </div>
 </div>
